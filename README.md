@@ -80,7 +80,8 @@ This endpoint retrieves the balance of a user
   ```json
   {
       "api_key": "your_api_key",
-  }```
+  }
+  ```
 
 #### Response
 - **Body**:
