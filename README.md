@@ -12,7 +12,7 @@ https://discord.gg/kasada
 - **Cost**: $0.10 per 1,000 requests
   - Each request processed through the API costs $0.0001.
 
-### Example Pricing
+### Pricing
 
 ```  Number of Requests   Cost ($)  
 |--------------------|----------|
