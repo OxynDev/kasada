@@ -2,6 +2,9 @@
 
 https://discord.gg/kasada
 
+# FREE 500 CAPTCHA PER DAY
+
+
 # API Pricing for Captcha Solving Service
 
 ## Pricing Structure
