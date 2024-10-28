@@ -57,7 +57,8 @@ This endpoint is used to solve a **passport** captcha
   {
       "api_key": "your_api_key",
       "app_id": your_app_id  // Optional
-  }```
+  }
+  ```
 
 #### Response
 - **Body**:
